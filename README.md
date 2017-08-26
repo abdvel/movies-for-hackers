@@ -63,7 +63,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
-| [The Matrix](http://www.imdb.com/title/tt0133093/)                                         | Fantasy/Action            | 1999 | 8.7/10 |
+| [The Matrix](http://www.imdb.com/title/tt0133093/)                                         | Fantasy/Action            | 1999 | 8.7/10 (WATCHED) |
 | [The Lawnmower Man](http://www.imdb.com/title/tt0104692/)                                  | Fantasy/Action            | 1992 | 5.4/10 |
 | [Open Windows](http://www.imdb.com/title/tt2409818/)                                       | Fantasy/Crime             | 2014 | 5.2/10 |
 | [Ex Machina](http://www.imdb.com/title/tt0470752/)                                         | Fantasy/Mystery           | 2015 | 7.7/10 |
@@ -137,7 +137,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 | TITLE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
-| [Mr. Robot](http://www.imdb.com/title/tt4158110/)                                          | Thriller/Drama            | 2015 | 8.7/10 |
+| [Mr. Robot](http://www.imdb.com/title/tt4158110/)                                          | Thriller/Drama            | 2015 | 8.7/10 (WATCHED)|
 | [Silicon Valley](http://www.imdb.com/title/tt2575988/)                                     | Comedy                    | 2014 | 8.5/10 |
 | [The IT Crowd](http://www.imdb.com/title/tt0487831/)                                       | Comedy                    | 2006 | 8.6/10 |
 | [Halt and Catch Fire](http://www.imdb.com/title/tt2543312/)                                | Drama                     | 2014 | 8.3/10 |
