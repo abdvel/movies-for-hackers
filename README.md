@@ -67,7 +67,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The Lawnmower Man](http://www.imdb.com/title/tt0104692/)                                  | Fantasy/Action            | 1992 | 5.4/10 (WATHCED) |
 | [Open Windows](http://www.imdb.com/title/tt2409818/)                                       | Fantasy/Crime             | 2014 | 5.2/10 (WATCHED) |
 | [Ex Machina](http://www.imdb.com/title/tt0470752/)                                         | Fantasy/Mystery           | 2015 | 7.7/10 (WATCHED) |
-| [eXistenZ](http://www.imdb.com/title/tt0120907/)                                           | Science Fiction/Thriller  | 1999 | 6.8/10 |
+| [eXistenZ](http://www.imdb.com/title/tt0120907/)                                           | Science Fiction/Thriller  | 1999 | 6.8/10 (WATCHED) |
 | [One Point O](http://www.imdb.com/title/tt0317042/)                                        | Mystery/Science fiction   | 2004 | 6.2/10 |
 | [Inception](http://www.imdb.com/title/tt1375666/)                                          | Mystery/Science fiction   | 2010 | 8.8/10 (WATCHED) |
 | [Ghost in the Shell](http://www.imdb.com/title/tt0113568/)                                 | Fantasy/Animation         | 1995 | 8/10   |
