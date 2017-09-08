@@ -75,7 +75,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [Blade Runner](http://www.imdb.com/title/tt0083658/)                                       | Science Fiction/Thriller  | 1982 | 8.2/10 (WATCHED) |
 | [Her](http://www.imdb.com/title/tt1798709/)                                                | Science Fiction/Romance   | 2013 | 8.0/10 (WATCHED) |
 | [World on a Wire](http://www.imdb.com/title/tt0070904/)                                    | Science Fiction/Thriller  | 1973 | 7.9/10 |
-| [Transcendence](http://www.imdb.com/title/tt2209764/)                                      | Science Fiction/Drama     | 2014 | 6.3/10 |
+| [Transcendence](http://www.imdb.com/title/tt2209764/)                                      | Science Fiction/Drama     | 2014 | 6.3/10 (WATCHED) |
 | [Johnny Mnemonic](http://www.imdb.com/title/tt0113481/)                                    | Science fiction/Action    | 1995 | 5.6/10 |
 | [Ghost in the Shell](http://www.imdb.com/title/tt1219827/)                                 | Science fiction/Action    | 2017 | 6.9/10 |
 | [Morgan](http://www.imdb.com/title/tt4520364/)                                             | Science Fiction/Thriller  | 2016 | 5.8/10 |
